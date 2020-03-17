@@ -1,5 +1,5 @@
 body {
-    background-image: url(background.jfif);
+    background-color: lightblue;
     background-size: cover;
     font-style: normal;
 }
@@ -9,6 +9,7 @@ body {
 }
 
 .blog {
+    border: 2px solid tomato;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -16,7 +17,7 @@ body {
 
 #div1 {
     font-size: 30px;
-    border: 10px solid ;
+    border: 6px solid ;
     color: tomato;
     font-family: 'Roboto', sans-serif;
     display: inline-block;
