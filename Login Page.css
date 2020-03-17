@@ -1,0 +1,52 @@
+body {
+    background-image: url(background.jfif);
+    background-size: cover;
+}
+
+.blog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Sen', sans-serif;
+}
+
+#login_form {
+    font-size: 30px;
+    border: 10px solid tomato;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    padding: 100px 200px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+}
+
+button {
+    width: 80px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border-color: tomato;
+    background-color: lightseagreen;
+    padding: 12px 20px;
+}
+
+#frgt_psw {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#login {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bloggif {
+    float: right;
+}
