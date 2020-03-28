@@ -14,12 +14,14 @@ h1 {
     font-size: 90px;
     font-family: 'Sen', sans-serif;
     border: 2px solid tomato;
+    border-width: 3px;
     background-color: olive;
+    padding-bottom: 20px;
 }
 
 #login_form {
     font-size: 30px;
-    border: 6px solid teal;
+    border: 6px solid tomato;
     background-color: lightblue;
     font-family: 'Roboto', sans-serif;
     display: inline-block;
@@ -32,11 +34,11 @@ input {
 }
 
 button {
-    width: 80px;
+    width: 100px;
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
     border-color: tomato;
-    background-color: lightseagreen;
+    background-color: azure;
     padding: 12px 20px;
 }
 
