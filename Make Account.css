@@ -1,27 +1,32 @@
 body {
-    background-color: lightblue;
-    background-size: cover;
+    background-image: url("https://images.wallpaperscraft.com/image/tree_snow_minimalism_126714_938x1668.jpg");
+    background-size: 1500px 800px;
+    background-attachment: fixed;
     font-style: normal;
 }
 
-.rotate {
-    float: right;
-}
+/*.rotate {
+    float: left;
+}*/
 
 .blog {
     border: 2px solid tomato;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 0px;
 }
 
 #div1 {
     font-size: 30px;
     border: 6px solid ;
     color: tomato;
+    background-color: lightblue;
     font-family: 'Roboto', sans-serif;
     display: inline-block;
-    padding: 100px 200px;
+    padding: 50px 50px;
+    padding-bottom: 18px;
+    padding-top: 30px;
 }
 
 input {
@@ -53,8 +58,11 @@ input[type=submit], input[type=reset] {
 }
 
 h1 {
-    font-style: normal;
     font-size: 90px;
+    border: 2px solid tomato;
+    border-width: 3px;
+    background-color: olive;
     font-family: 'Sen', sans-serif;
     text-align: center;
+    margin-bottom: 100px;
 }
