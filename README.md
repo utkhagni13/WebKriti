@@ -1,3 +1,3 @@
 # WebKriti
 I have used only basic HTML and basic CSS in these codes.
-link for video: https://drive.google.com/open?id=1B-zGrCOOCzWB5ewFwDfASE9sJtkKAoi6
+link for video:https://youtu.be/aN3jdU80ZuI
